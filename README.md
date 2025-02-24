@@ -8,7 +8,7 @@ A results-driven Quality Assurance professional with over 3 years of experience 
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [bhartisagar93.bs@gmail.com](mailto:bhartisagar93.bs@gmail.com)
-* 🚀  I'm currently working on [Selenium WebDriver](http://github.com/BhartiSagar93/test-automation-with-selenium-webdriver-for-java-2124033)
+* 🚀  I'm currently working on Projects
 * 🧠  I'm learning Automation Testing
 
 ### Skills
